@@ -1,0 +1,7 @@
+exports.EventEmitter = require('./events')
+exports.Readable = require('./readable')
+exports.Writable = require('./writable')
+exports.Duplex = require('./duplex')
+exports.Transform = require('./transform')
+exports.PassThrough = require('./passthrough')
+exports.through = require('./through')

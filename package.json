@@ -1,0 +1,29 @@
+{
+  "name": "stream-base",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sonewman/stream-base.git"
+  },
+  "keywords": [
+    "stream"
+  ],
+  "author": "Sam Newman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonewman/stream-base/issues"
+  },
+  "homepage": "https://github.com/sonewman/stream-base",
+  "dependencies": {
+    "inherits": "2.0.1"
+  },
+  "devDependencies": {
+    "macchiato": "^2.2.0",
+    "readable-stream": "^1.1.13"
+  }
+}
